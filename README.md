@@ -22,4 +22,5 @@ The Personal Financial Dashboard is an interactive Excel-based tool designed to 
 -Download the excel File
 -After downloaded the Excel file, See the Visuals in the page, By using slicer we can visualise the data.  
 
-##Screenshots
+## Screenshots
+![image alt](https://github.com/MithinRC/Personal-Financial-Dashboard/blob/35aa489b5e25f5c0eceebe73fcad0b6d5a5e4e9e/dashboard.png)
